@@ -1,2 +1,2 @@
 # Implementing-and-Analyzing-K-Means-Clustering-on-Synthetic-Data
-This project applies the K-Means clustering algorithm on a synthetic multi-modal dataset to identify natural groupings. The optimal number of clusters is selected using the Elbow Method and Silhouette Score. Results are visualized and interpreted to demonstrate understanding of unsupervised learning, cluster evaluation using NumPy and plots clear.
+This project uses the K-Means clustering algorithm on a synthetic multi-modal dataset to find natural groupings. The number of clusters is determined by the Elbow Method and Silhouette Score. The results are then visualized and explained to show understanding of unsupervised learning and cluster assessment using NumPy and plots.
